@@ -1,0 +1,2 @@
+# LearningPython
+Изучение основ Python
